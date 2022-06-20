@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# config file
+config*
+
+#additional practice files
+API_practice*
+random_numbers*
+
 # Distribution / packaging
 .Python
 build/
